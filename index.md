@@ -1,5 +1,5 @@
 ---
-layout: workshop      # DON'T CHANGE THIS.
+layout: workshop      # DON'T CHANGE THIS..
 venue: "University of Birmingham"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Friday: Murray Learning Centre LG13<br/>Monday: Murray Learning Centre LG12"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "gb"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
